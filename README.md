@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ## About Me:
 <div>
-  <p>🌱 Junior Web Developer | Open Source Contributor<br>
+  <p><b>🌱 Junior Web Developer | Open Source Contributor<br>
 Currently learning:<br>
 📚 JavaScript | React | Git<br>
-🔧 Building personal projects to master my skills
+🔧 Building personal projects to master my skills</b>
   </p>
 </div>
 
