@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div align="center">
+
+### :fire: My Stats :
+
+<div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ADXTV&theme=tokyonight&hide_border=true&border_radius=3.7" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADXTV&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADXTV&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
