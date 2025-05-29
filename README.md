@@ -26,7 +26,14 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :fire: My Stats :
+## About Me:
+🌱 Junior Web Developer | Open Source Contributor
+Currently learning:
+📚 JavaScript | React | Git
+🔧 Building personal projects to master my skills
+
+
+### :fire: My Stats:
 
 <div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ADXTV&theme=tokyonight&hide_border=true&border_radius=3.7" alt="GitHub Streak" /></a>
