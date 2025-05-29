@@ -17,5 +17,14 @@ Here are some ideas to get you started:
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFlNGZ0dG52czBrOGl5djl0aWMwNWc4MXduYjcwbDBkdjJ5cXZ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="300"/>
 </div>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ADXTV&style=for-the-badge&color=blue" alt="ProfileViews">
+    <img src="https://komarev.com/ghpvc/?username=ADXTV&style=for-the-badge&color=blue" alt="ProfileViews"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ADXTV&theme=tokyonight&hide_border=true&border_radius=3.7" alt="GitHub Streak" /></a>
 </div>
