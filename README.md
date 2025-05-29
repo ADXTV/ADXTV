@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 </div>
 
 ## About Me:
-🌱 Junior Web Developer | Open Source Contributor
-Currently learning:
-📚 JavaScript | React | Git
+<div>
+  <p>🌱 Junior Web Developer | Open Source Contributor<br>
+Currently learning:<br>
+📚 JavaScript | React | Git<br>
 🔧 Building personal projects to master my skills
-
+  </p>
+</div>
 
 ### :fire: My Stats:
 
