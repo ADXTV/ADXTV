@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ADXTV&style=for-the-badge&color=blue" alt="ProfileViews"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ADXTV&theme=tokyonight&hide_border=true&border_radius=3.7" alt="GitHub Streak" /></a>
 </div>
