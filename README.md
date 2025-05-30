@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFlNGZ0dG52czBrOGl5djl0aWMwNWc4MXduYjcwbDBkdjJ5cXZ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFlNGZ0dG52czBrOGl5djl0aWMwNWc4MXduYjcwbDBkdjJ5cXZ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400"/>
 </div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ADXTV&style=for-the-badge&color=blue" alt="ProfileViews"/>
