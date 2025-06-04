@@ -41,7 +41,7 @@ Currently learning:<br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ADXTV&theme=tokyonight&hide_border=true&border_radius=3.7" alt="GitHub Streak" /></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADXTV&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADXTV&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Language And Tools:
 
